@@ -39,3 +39,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 header 1| header2
 --------|---------
 hello| world
+markdown| test table
+ 
